@@ -1,1 +1,1 @@
-teste de um novo arquivo 
+#Teste de um novo arquivo - válido
